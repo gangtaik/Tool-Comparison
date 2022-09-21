@@ -11,3 +11,5 @@ whl_chr_bafsrr.R : Plotting LRR, BAF plot, and each tool results on the whole ch
 
 
 roc.R : Plotting ROC curve for evaluating tools' performace
+
+![roc](https://user-images.githubusercontent.com/52641551/191603886-213e196b-9cb7-46ff-a812-72b19cf8ea4b.jpg)
