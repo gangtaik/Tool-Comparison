@@ -1,0 +1,3 @@
+
+Sample	Tool	Chr	Start	End	Length
+COAD-A6-6652-01A	FACETS	chr17	1179749	9575811	8396063

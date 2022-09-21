@@ -1,0 +1,3 @@
+
+Sample	Tool	Chr	Start	End	Length
+COAD-A6-2677-01A	Array	chr12	50510007	133265309	82755303

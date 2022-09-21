@@ -1,0 +1,3 @@
+
+Sample	Tool	Chr	Start	End	Length
+COAD-A6-6652-01A	NEXUS	chr17	587395	11032925	10445531

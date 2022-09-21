@@ -1,0 +1,3 @@
+
+Sample	Tool	Chr	Start	End	Length
+COAD-CM-5862-01A	Array	chr4	2266447	26893928	24627482
