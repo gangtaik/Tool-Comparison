@@ -2,8 +2,7 @@
 
 sngl_chr_bafsrr.R : Plotting LRR, BAF plot, and each tool results by each chromosome 
 
-
-
+![single_chr](https://user-images.githubusercontent.com/52641551/191603337-84e2e9aa-5ebc-46ea-912c-d87af02a2db4.jpg)
 
 whl_chr_bafsrr.R : Plotting LRR, BAF plot, and each tool results on the whole chromosomes
 
